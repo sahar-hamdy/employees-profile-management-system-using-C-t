@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1700158513 source:c:\users\sahar\desktop\basic calculations\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1700158513 source:c:\users\sahar\desktop\c projects\basic calculations\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1699884967 source:c:\users\sahar\desktop\c iti\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1699884967 source:c:\users\sahar\desktop\c projects\c iti\main.c
+	<stdio.h>
+	<stdlib.h>
+

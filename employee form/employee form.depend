@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1700604703 source:c:\users\sahar\desktop\employee form\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+
+1700604703 source:c:\users\sahar\desktop\c projects\employee form\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+
+1700604703 source:d:\iti\c\c projects\employee form\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+

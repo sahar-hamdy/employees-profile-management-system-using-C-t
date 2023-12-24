@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1700224245 source:c:\users\sahar\desktop\upper and lower with ascii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700224245 source:c:\users\sahar\desktop\c projects\upper and lower with ascii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1700219038 source:c:\users\sahar\desktop\string terminator\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1700494183 source:c:\users\sahar\desktop\c projects\string terminator\main.c
+	<stdio.h>
+	<stdlib.h>
+

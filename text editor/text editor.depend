@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1701104668 source:c:\users\sahar\desktop\c projects\draft kassas\text editor\main.c
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<conio.h>
+
+1701104668 source:c:\users\sahar\desktop\c projects\text editor\main.c
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<conio.h>
+
